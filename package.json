@@ -1,0 +1,1 @@
+{"name":"siam4-expo-pass","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host","build":"vite build","preview":"vite preview --host"},"dependencies":{"@supabase/supabase-js":"^2.57.0","@fontsource/sarabun":"^5.2.7","@fontsource/prompt":"^5.2.7","@fontsource/kanit":"^5.2.7","html2canvas":"^1.4.1","jspdf":"^3.0.2","qrcode":"^1.5.4","vite":"^6.3.5"}}
